@@ -1,0 +1,155 @@
+
+.navbar {
+    position: relative;
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+}
+
+#navtext {
+    margin-left:700px;
+    margin-right:10px;
+}
+
+#textreserv {
+    font-size: 14px;
+}
+
+#hom {
+    font-size: 15px;
+    margin-left:500px;
+}
+
+#por {
+    font-size: 15px;
+    margin-left:50px;
+}
+
+#blo {
+    font-size: 15px;
+    margin-left:50px;
+}
+
+#pag {
+    font-size: 15px;
+    margin-left:50px;
+}
+
+#con {
+    font-size: 15px;
+    margin-left:50px;
+}
+
+#img1{
+    position: relative;
+    margin-left:90px;
+    Height: 113vh;
+    width: 80.5vw;
+    text-align: center;
+}
+#img2{
+    position: relative;
+    margin-left:90px;
+    Height: 120vh;
+    width: 40vw;
+    text-align: left;
+}
+#img3{
+    position: relative;
+    margin-left:5px;
+    Height: 120vh;
+    width: 40vw;
+    text-align: right;
+}
+#img4{
+    position: relative;
+    text-align: left;
+    margin-left:88px;
+    margin-top:-40px;
+    width: 40vw;
+
+}
+#img5{
+    position: relative;
+    text-align: left;
+    margin-left:88px;
+    margin-top: 10px;
+    width: 40vw;
+}
+#img6{
+    position: relative;
+    text-align: left;
+    width: 40vw;
+    margin-left:640px;
+    margin-top: -739px;
+}
+#img7{
+    position: relative;
+    margin-left:0px;
+    Height: 113vh;
+    width: 80.5vw;
+    text-align: center;
+}
+ 
+#txt1{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+#txt2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+#textblg {
+    font-size: 20px;
+    margin-top:40px;
+}
+#button {
+    font-size: 20px;
+    margin-top:40px;
+    margin-bottom:40px;
+
+}
+#contenedor {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#contenedor2{
+    display: flex;
+    align-items: flex;
+}
+
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+    #box1 {
+        margin-top:90px;
+    }
+    #box2 {
+        margin-top:-20px;
+    }
+    #box3 {
+        margin-top:80px;
+        margin-bottom:80px;
+
+    }
